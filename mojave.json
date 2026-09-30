@@ -1,0 +1,5 @@
+{
+  "kind": "service",
+  "start": "python main.py",
+  "port": 8080
+}
